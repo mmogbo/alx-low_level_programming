@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main entry point for c program
+ * main - A program with entry point that prints usings put in c program
  * Return:0
  */
 int main(void)
