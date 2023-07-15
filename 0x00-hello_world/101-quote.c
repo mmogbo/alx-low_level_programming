@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A program that that prints exactly and that piece of art is ...
- * Response: 1
+ * main - Entry point
+ * Description: 'a program that prints a line to the standard error'
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
